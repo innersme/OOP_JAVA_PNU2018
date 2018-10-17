@@ -23,7 +23,7 @@ public class EditorTest {
             }
             switch ( op ) {
                 case ADD_R : {
-                    final Rexctangle newLine = createRectangle() ;
+                    final Rectangle newLine = createRectangle() ;
                     System.out.println(newLine) ;
                     break ;
                 }
